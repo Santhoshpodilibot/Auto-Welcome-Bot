@@ -99,7 +99,7 @@ async def auto_welcome(bot: Pr0fess0r_99, msg: Message):
     group_name = msg.chat.title
     group_username = msg.chat.username
     name_button = "🔰 JOIN NOW 🔰"
-    link_button = "t.me/Mo_tech_YT"
+    link_button = "t.me/newsstreamer"
     button_name = os.environ.get("WELCOME_BUTTON_NAME", name_button)
     button_link = os.environ.get("WELCOME_BUTTON_LINK", link_button)
     welcome_text = f"Hey {mention}\nWelcome To {group_name}"
@@ -142,6 +142,6 @@ async def auto_welcome(bot: Pr0fess0r_99, msg: Message):
 
 print("""Auto Welcome Bot Started
 
-Maintained By @Mo_Tech_YT""")
+Maintained By @newsstreamer""")
 
 Pr0fess0r_99.run()
