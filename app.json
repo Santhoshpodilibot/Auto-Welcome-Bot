@@ -1,7 +1,7 @@
 {
-    "name": "Auto Welcome Bot",
-    "description": "iam Id Bot @MRK_YT",
-    "logo": "https://telegra.ph/file/c4a3eea0c20318b6d88b6.jpg",
+    "name": "SANTHOSH PODILI",
+    "description": "iam Id Bot @newsstreamer",
+    "logo": "https://te.legra.ph/file/422292c9fb5561a9be9c6.jpg",
     "keywords": [
         "Telegram",
         "Custom",
@@ -10,9 +10,9 @@
         "Welcome", 
         "Bot"
     ],
-    "website": "https://youtube.com/channel/UCmGBpXoM-OEm-FacOccVKgQ",
-    "repository": "https://github.com/PR0FESS0R-99/Auto-Welcome-Bot",
-    "success_url": "https://youtube.com/channel/UCmGBpXoM-OEm-FacOccVKgQ",
+    "website": "https://m.youtube.com/channel/UC7QMr8IDR65vciXrwx4XLiQ",
+    "repository": "https://github.com/Santhoshpodilibot/Auto-Welcome-Bot.git",
+    "success_url": "https://m.youtube.com/channel/UC7QMr8IDR65vciXrwx4XLiQ",
     "stack": "container",
     "env": {
         "API_ID": {
