@@ -19,17 +19,17 @@ async def start(client: Pr0fess0r_99, update):
             [
                 InlineKeyboardButton
                     (
-                         "🤖More Bots", url="t.me/MT_Botz"
+                         "🤖More Bots", url="𝚝.𝚖𝚎/newsstreamer"
                     ),
                 InlineKeyboardButton
                     (
-                         "💡Open Source", url="https://github.com/{link}" # PR0FESS0R-99/Auto-Welcome-Bot
+                         "💡Open Source", url="https://t.me/newsstreamer"
                     )
             ],   
             [
                 InlineKeyboardButton
                    (
-                        "➕️ Add Me To Your Chats ➕️", url=f"http://t.me/{bot_username.username}?startgroup=botstart"
+                        "➕️ 😘𝙽𝙰𝙽𝚄 𝙰𝙳𝙳 𝙲𝙷𝙴𝚂𝚄 𝙺𝙾𝙽𝙳𝙸 ➕️", url=f"http://t.me/{bot_username.username}?startgroup=botstart"
                    )
             ]
         ] 
